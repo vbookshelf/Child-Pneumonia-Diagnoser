@@ -1,5 +1,13 @@
 
+## Child-Pneumonia-Diagnoser
+
 Live Web App: http://child.test.woza.work/
+
+<br>
+
+<img src="http://child.test.woza.work/assets/child_sample.png" width="350"></img>
+
+<br>
 
 This is a prototype for a freely available online tool that can look at a chest x-ray and almost instantly tell if a child has pneumonia. It can also tell if it is bacterial or viral pneumonia.
 
