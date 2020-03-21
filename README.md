@@ -5,7 +5,7 @@ Live Web App: http://child.test.woza.work/
 
 <br>
 
-<img src="http://child.test.woza.work/assets/child_sample.png" width="350"></img>
+<img src="http://child.test.woza.work/assets/app_pic.png" width="350"></img>
 
 <br>
 
