@@ -9,7 +9,11 @@ Live Web App: http://child.test.woza.work/
 
 <br>
 
-This is a prototype for a freely available online tool that can look at a chest x-ray and almost instantly tell if a child has pneumonia. It can also tell if it is bacterial or viral pneumonia.
+This prototype web app uses computer vision to detect viral and bacterial pneumonia on chest x-rays. It’s a triage tool to help doctors identify high risk children fast. The app can accept batches of x-rays in jpg or png format. For each x-ray it outputs three possible conditions:
+- No pneumonia
+- Viral pneumonia
+- Bacterial pneumonia
+
 
 The model was trained on chest x-rays of children aged 1 to 5. 
 
